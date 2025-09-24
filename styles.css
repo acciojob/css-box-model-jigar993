@@ -1,9 +1,9 @@
 
 /* Your CSS Code here. */
-div{
-width: 300px;
-background: light blue;
-border: 15px solid blue;
-padding: 50px;
+.box {
+width: 300px; /* required: exact width */
+background-color: lightblue; /* required: light blue background */
+border: 15px solid blue; /* required: 15px solid blue border */
+padding: 50px; /* required: 50px padding */
 margin: 20px;
 }
