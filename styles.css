@@ -1,9 +1,8 @@
 
-/* Your CSS Code here. */
-.box {
-width: 300px; /* required: exact width */
-background-color: lightblue; /* required: light blue background */
-border: 15px solid blue; /* required: 15px solid blue border */
-padding: 50px; /* required: 50px padding */
-margin: 20px;
-}
+  .box-model {
+            width: 300px;
+            background-color: lightblue;
+            border: 15px solid blue;
+            padding: 50px;
+            margin: 20px;
+        }
